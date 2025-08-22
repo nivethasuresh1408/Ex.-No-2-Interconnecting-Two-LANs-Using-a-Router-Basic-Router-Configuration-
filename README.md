@@ -1,6 +1,5 @@
-# Date :
+# Date : 22-08-2025
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
-
 
 # Objective
 To configure a router to connect two separate LANs and enable communication between them using static IP addressing.
@@ -53,8 +52,14 @@ Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
 •	Router CLI configuration<br>
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/88d8f913-9bd0-41fe-b19b-2907a4fc9ebf" />
+
 •	IP configurations on PCs<br>
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/e235fa12-b825-41e0-9aff-fc47665fafcc" />
+
 •	Successful ping between PC0 and PC1<br>
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/42db3431-8691-4f8d-b5eb-c36924bda203" />
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
